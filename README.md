@@ -117,8 +117,4 @@ Input (28×28×1)
 **Frontend** — GitHub Pages / Netlify / Vercel:
 - Update `const API = "..."` in `index.html` to your backend URL
 - Deploy `frontend/` folder (no build step needed)
-
 ---
-
-## 📄 License
-MIT
